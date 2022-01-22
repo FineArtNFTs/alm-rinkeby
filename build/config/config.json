@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC5009338830Da106a3e383D97c102053D8536f7e",
+  "SCAN_LINK": "https://",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Ethereum",
+    "ID": 4
+  },
+  "NFT_NAME": "All Lives Matter",
+  "SYMBOL": "ALM",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/all-lives-matter-official",
+  "SHOW_BACKGROUND": true
+}
